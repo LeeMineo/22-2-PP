@@ -51,4 +51,21 @@ public class WordCRUD implements ICRUD{
     public void selectOne(int id) {
 
     }
+/*
+=> 원하는 메뉴는? 1
+-----------------------------
+1 ***
+2 *
+3 **
+4 *
+ */
+    public void listAll(){
+        System.out.println("------------------------");
+        for(int i =0; i< list.size(); i++){
+            System.out.print((i+1) + " ");
+            System.out.println(list.get(i).toString());
+        }
+        System.out.println("------------------------");
+
+    }
 }

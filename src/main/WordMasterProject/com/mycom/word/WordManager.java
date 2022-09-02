@@ -46,7 +46,7 @@ public class WordManager { //Word CRUD를 이용해서 구현 하는 전체적�
                 wordCRUD.addWord();
             }
             else if(menu == 1){
-                //list
+                wordCRUD.listAll();
             }
         }
 
