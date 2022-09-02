@@ -10,4 +10,5 @@
 >https://juyoungit.tistory.com/649<br>
 
 
-<img scr = ''>
+<img scr = '사진파일경로' width = '300'>
+width 사용하기 
