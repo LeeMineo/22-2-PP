@@ -1,6 +1,6 @@
-진행보고서 체크리스트
+# 진행보고서 체크리스트
 
-1.설치한 IDE이름과 실행 화면을 캡쳐했는가?
+1.설치한 IDE이름과 실행 화면을 캡쳐했는가?<br>
 <img width="564" alt="스크린샷 2022-09-02 오후 4 23 29" src="https://user-images.githubusercontent.com/103713510/188081809-bb114cdb-3a3e-4318-ba82-5718964605b2.png"> <br>
 
 > 설치한 IDE : eclipse, STS4, intellij <br>
