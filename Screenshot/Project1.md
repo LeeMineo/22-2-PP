@@ -7,3 +7,10 @@
 
 > 실행화면 <br>
 <img width="1401" alt="스크린샷 2022-09-02 오후 4 25 34" src="https://user-images.githubusercontent.com/103713510/188082104-be9b4d9f-1ea3-4623-9122-38c3f1e3e0f3.png"> <br>
+
+
+2.최소한 클래스 3개 & 인터페이스 1개 만들었는가?
+
+3.새 프로젝트가 올라간 자신의 github repo url은?
+
+4.commit수는 최소한 3회 이상인가? (코드 수정하면서 3번 이상 commit할 것!)
