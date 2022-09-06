@@ -5,7 +5,7 @@
 
 ### 1.설치된 IDE
 
-<img scr = '스크린샷 2022-09-02 오후 4.23.29.png' width = '300'>
+<img scr = 'https://github.com/LeeMineo/22-2-PP/blob/master/Screenshot/스크린샷%202022-09-02%20오후%204.23.29.png?raw=true' width = '300'>
 width 사용하기 
 
 ### 2.실행화면
