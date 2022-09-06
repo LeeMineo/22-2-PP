@@ -1,7 +1,7 @@
 package com.mycom.word;
 
 public interface ICRUD { //인터페이스는 국룰로 I를 붙임
-    public Object add(); // 데이터 추가할때 사용하는 함수
+    public Object  add(); // 데이터 추가할때 사용하는 함수
     // 추가된 객체를 리턴해주기 위해 오브젝트를 사용
     public int update(Object obj); // 데이터 수정할때 사용하는 함수
     public int delete(Object obj);// 데이터 삭제할때 사용하는 함수
