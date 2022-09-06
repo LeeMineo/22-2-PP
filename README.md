@@ -23,6 +23,3 @@
 2-3. [0.나가기]  <br>
 <img width="332" alt="스크린샷 2022-09-07 오전 12 47 35" src="https://user-images.githubusercontent.com/103713510/188680707-b8ecb663-cb72-4b28-80da-b5b265844878.png"> <br>
 
-
-2-4.전체 <br>
- 
