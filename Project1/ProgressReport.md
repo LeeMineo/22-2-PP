@@ -4,15 +4,44 @@
 
 ### 1.	진행보고서 체크리스트 <br> 
 - 설치한 IDE의 이름과 실행 화면을 캡쳐했는가? <br>
+
+<img width="564" alt="스크린샷 2022-09-02 오후 4 23 29" src="https://user-images.githubusercontent.com/103713510/188668392-8d791273-5daf-42b8-a240-638a766958e8.png">
+
+<img width="1401" alt="스크린샷 2022-09-02 오후 4 25 34" src="https://user-images.githubusercontent.com/103713510/188668486-e0b597b5-68a8-4d4d-a510-7f45c006c15c.png">
+
+
+
 - 최소한 클래스 3개 & 인터페이스 1개 만들었는가? <br>
+
+<img width="180" alt="스크린샷 2022-09-06 오후 11 56 58" src="https://user-images.githubusercontent.com/103713510/188668332-8d63905d-f62d-4371-bdab-222b07b65c14.png">
+
+
 - 새 프로젝트가 올라간 자신의 github repo url은? <br>
+
+: https://github.com/LeeMineo/22-2-PP.git
+
+
 - Commit 수는 최소한 3회 이상인가? (코드 수정하면서 3번 이상 commit 할 것!) <br>
+
+
 - [4.단어 추가] 메뉴에서 새로운 단어 추가가 잘 실행되는가? <br>
+
+
 - 위 실행 화면 캡쳐 이미지를 github에 올리고, Readme.md에 연결했는가? <br>
+
+
 - 추가된 단어들이 [1.모든 단어보기] 메뉴에서 제대로 출력되는가? <br>
+
+
 - 위 실행 화면 캡쳐 이미지를 github에 올리고, Readme.md에 연결했는가? <br>
+
+
 - [0.나가기] 메뉴가 잘 실행되는가? <br>
+
+
 - 현재까지 프로젝트를 구현하면서 소감, 어려움, 또는 건의사항을 적었는가? <br>
+
+
 
 ### 2.	프로젝트 수행 기준 <br>
 - Java project 생성 (Maven 사용) <br>
