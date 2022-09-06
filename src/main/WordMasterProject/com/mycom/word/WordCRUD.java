@@ -23,8 +23,6 @@ public class WordCRUD implements ICRUD{
         int level = s.nextInt();
         String word = s.nextLine();
 
-        System.out.print(level + word); // 저장은 제대로 된다.
-
         System.out.print("뜻 입력 : ");
         //차고 진입로
         String meaning = s.nextLine();
@@ -34,9 +32,9 @@ public class WordCRUD implements ICRUD{
 
     public void addWord(){
         Word one = (Word)add();
-        //System.out.print(one);
+
         list.add(one);
-        //System.out.print(one);
+
         System.out.println("새 단어가 단어장에 추가되었습니다.");
 
     }
