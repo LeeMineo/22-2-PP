@@ -1,6 +1,17 @@
 # 궁금한점
 
-1.intellij 에서 STS나 이클립스처럼 Package를 생성 할 수 있는가?
+1.Intellij 설치, 학생 License 발급, Intellij에 License 적용하는법<br>
+>https://gomster96.github.io/Spring/IntelliJ/
+
+---------
+
+2.Intellij + Git / Github사용<br>
+>Intellij 에서 새 Java Project 생성 후 Git과 github 저장소적용, 새 Github repo에 push 하는 법<br>
+>https://juyoungit.tistory.com/649<br>
+
+------------
+
+3.intellij 에서 STS나 이클립스처럼 Package를 생성 할 수 있는가?
 >가능하다.
 
 <방법>
@@ -19,3 +30,5 @@
 
 <img width="237" alt="스크린샷 2022-09-01 오후 8 43 55" src="https://user-images.githubusercontent.com/103713510/187906140-62df42b6-57fb-45a0-af44-9aefc3b471e5.png">
 완료.<br>
+
+
