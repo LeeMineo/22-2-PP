@@ -2,11 +2,11 @@
 ## 2022년 2학기 실전프로젝트 공부 입니다.
 --------
 [프로젝트 진행보고서](Project1/ProgressReport.md)
-<img scr = '사진파일경로' width = '300'>
+<img src = '사진파일경로' width = '300'>
 
 ### 1.설치된 IDE
 
-<img src = "Screenshot/스크린샷 2022-09-02 오후 4.23.29.png" width = '300' title ='ide'>
+<img src = "Screenshot/스크린샷 2022-09-02 오후 4.23.29.png" width = '300' >
 
 <img src="./screenshot/1.png" width="350" title="hover text">
 
