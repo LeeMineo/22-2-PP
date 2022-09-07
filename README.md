@@ -2,16 +2,15 @@
 ## 2022년 2학기 실전프로젝트 공부 입니다.
 --------
 [프로젝트 진행보고서](Project1/ProgressReport.md)
-## <img src = '사진파일경로' width = '300'>
 
 ### 1.설치된 IDE
 
-<img src="./Screenshot/1.png" width="350" title="hover text">
+<img src="./Screenshot/1.png" width="350" title="IDE">
 
 
-<img width="300" alt="스크린샷 2022-09-02 오후 4 23 29" src="https://user-images.githubusercontent.com/103713510/188680913-cedf7fcb-1df7-4a88-978a-169122f6958a.png">
+<img src="./Screenshot/2.png" width="500" title="IDE">
 
-<img width="500" alt="스크린샷 2022-09-02 오후 4 25 34" src="https://user-images.githubusercontent.com/103713510/188680931-f65a4591-a89b-4af1-94cb-0a1ee166a13f.png">
+
 
 ### 2.실행화면
 
