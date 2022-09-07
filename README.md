@@ -2,7 +2,7 @@
 ## 2022년 2학기 실전프로젝트 공부 입니다.
 --------
 [프로젝트 진행보고서](Project1/ProgressReport.md)
-<img src = '사진파일경로' width = '300'>
+## <img src = '사진파일경로' width = '300'>
 
 ### 1.설치된 IDE
 
