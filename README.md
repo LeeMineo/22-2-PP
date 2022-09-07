@@ -8,8 +8,6 @@
 
 <img src = "Screenshot/스크린샷 2022-09-02 오후 4.23.29.png" width = '300' >
 
-<img src="./screenshot/1.png" width="350" title="hover text">
-
 
 
 <img width="300" alt="스크린샷 2022-09-02 오후 4 23 29" src="https://user-images.githubusercontent.com/103713510/188680913-cedf7fcb-1df7-4a88-978a-169122f6958a.png">
