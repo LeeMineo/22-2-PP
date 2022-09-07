@@ -6,7 +6,7 @@
 
 ### 1.설치된 IDE
 
-<img src = './Screenshot/스크린샷 2022-09-02 오후 4.23.29.png' width = '300' title ='ide'>
+<img src = "./Screenshot/스크린샷 2022-09-02 오후 4.23.29.png" width = '300' title ='ide'>
 
 <img src="./screenshot/1.png" width="350" title="hover text">
 
