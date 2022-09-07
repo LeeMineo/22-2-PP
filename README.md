@@ -15,13 +15,13 @@
 ### 2.실행화면
 
 2-1. [4.단어 추가] <br>
-<img src="./Screenshot/3.png" width="500" title="IDE">
-<img src="./Screenshot/4.png" width="500" title="IDE">
+<img src="./Screenshot/3.png" width="350" title="IDE">
+<img src="./Screenshot/4.png" width="350" title="IDE">
 
 
 2-2. [1.모든 단어보기] <br>
-<img src="./Screenshot/5.png" width="500" title="IDE">
+<img src="./Screenshot/5.png" width="350" title="IDE">
 
 
 2-3. [0.나가기]  <br>
-<img src="./Screenshot/6.png" width="500" title="IDE">
+<img src="./Screenshot/6.png" width="350" title="IDE">
