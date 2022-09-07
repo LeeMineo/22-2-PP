@@ -5,6 +5,13 @@
 <img scr = '사진파일경로' width = '300'>
 
 ### 1.설치된 IDE
+
+<img scr = 'Screenshot/스크린샷 2022-09-02 오후 4.23.29.png' width = '300' title ='ide'>
+
+
+
+
+
 <img width="300" alt="스크린샷 2022-09-02 오후 4 23 29" src="https://user-images.githubusercontent.com/103713510/188680913-cedf7fcb-1df7-4a88-978a-169122f6958a.png">
 
 <img width="500" alt="스크린샷 2022-09-02 오후 4 25 34" src="https://user-images.githubusercontent.com/103713510/188680931-f65a4591-a89b-4af1-94cb-0a1ee166a13f.png">
