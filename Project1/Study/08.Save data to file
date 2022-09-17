@@ -1,1 +1,18 @@
+# 파일저장 / 읽어오기
 
+### 함수생성 / 파일명(저장위치) / 파일포맷
+
+wordManager class
+> loadFile() 파일 데이터 읽어오는 함수 <br>
+> saveFile() 파일저장 함수 <br>
+
+PrintWriter class
+> FileWriter, OutputStream .. <br>
+
+BufferedReader class
+> Scanner, FileReader, InputStream .. <br>
+
+```
+
+
+```
