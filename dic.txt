@@ -1,6 +1,6 @@
 1|Apple|사과
 1|Banana|바나나
-2|Driveway|차고 진입로
+2|Driveway|차 진입로
 2|Electric|전기의, 전기를 생산하는
 2|Pole|기둥 , 장대
 3|Literally|문자 그대로
