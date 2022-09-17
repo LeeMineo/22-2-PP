@@ -37,17 +37,17 @@
 <img src="./Screenshot/wordsearch.png" width="350" title="IDE"> <br>
 
 3-3.[5.단어 수정] <br>
-<img src="./Screenshot/wordupdate.png" width="350" title="IDE"> <br>
+<img src="./Screenshot/wordupdate.png" width="350" title="IDE">
 <img src="./Screenshot/wordupdateresult.png" width="350" title="IDE"> <br>
 
 3-4.[6.단어 삭제] <br>
-<img src="./Screenshot/beforedeleteword.png" width="350" title="IDE"> <br>
-<img src="./Screenshot/deleteword.png" width="350" title="IDE"> <br>
+<img src="./Screenshot/beforedeleteword.png" width="350" title="IDE">
+<img src="./Screenshot/deleteword.png" width="350" title="IDE"> 
 <img src="./Screenshot/afterdeleteword.png" width="350" title="IDE"> <br>
 
 3-5.[7.파일 저장] <br>
-<img src="./Screenshot/savefile.png" width="350" title="IDE"> <br>
-<img src="./Screenshot/savefilecontents.png" width="350" title="IDE"> <br>
+<img src="./Screenshot/savefile.png" width="350" title="IDE"> 
+<img src="./Screenshot/savefilecontents.png" width="350" title="IDE"> 
 <img src="./Screenshot/wheresavefile.png" width="350" title="IDE"> <br>
 
 3-6.[1.모든 단어보기]를 실행시 단어 출력<br>
