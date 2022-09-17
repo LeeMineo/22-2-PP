@@ -13,11 +13,16 @@
 - 소스코드는 github의 repo에 push할것.
 - 모든 실행결과는 screenshots 폴더에 업로드 하고, README.md에 img 태그로 반영
 
+> 모두 구현 완료!
+
 ### 2.진행보고서 체크리스트
 
 -	프로젝트를 공유한 github repo url 은 ?
 > https://github.com/LeeMineo/22-2-PP.git <br>
+
 -	Commit 수는 최소한 10회 이상인가? (1단계 진행보고서의 commit포함)
+<img width="191" alt="스크린샷 2022-09-17 오후 6 56 10" src="https://user-images.githubusercontent.com/103713510/190851151-035cd9f7-5f8c-499d-9abc-461d1a2fc1ca.png">
+
 
 -	[2.수준별 단어보기] 메뉴 선택시 실행 결과 예시와 동일하게 잘 표현되는가?
 <img width="338" alt="level" src="https://user-images.githubusercontent.com/103713510/190850478-fe192cb3-7423-4bbc-ae1a-44e8f7b93e95.png">
