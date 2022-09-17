@@ -39,6 +39,7 @@ public class WordManager { //Word CRUD를 이용해서 구현 하는 전체적�
         return s.nextInt();
     }
     public void start() {
+        wordCRUD.loadFile();
         while (true){
             int menu = selectMenu();
             if(menu == 0) break;
