@@ -30,7 +30,7 @@
 ### 3.추가된 기능 실행화면
 
 3-1.[2.수준별 단어보기] <br>
-<img src="./Screenshot/수준별단어보기.png" width="350" title="IDE">
+<img src="./Screenshot/level.png" width="350" title="IDE">
 
 3-2.[3.단어 검색] <br>
 3-3.[5.단어 수정] <br>
