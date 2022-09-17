@@ -16,6 +16,7 @@
 ### 2.진행보고서 체크리스트
 
 -	프로젝트를 공유한 github repo url 은 ?
+> https://github.com/LeeMineo/22-2-PP.git <br>
 -	Commit 수는 최소한 10회 이상인가? (1단계 진행보고서의 commit포함)
 -	[2.수준별 단어보기] 메뉴 선택시 실행 결과 예시와 동일하게 잘 표현되는가?
 -	위 실행 화면 캡쳐 이미지를 github에 올리고, README.md에 연결했는가?
