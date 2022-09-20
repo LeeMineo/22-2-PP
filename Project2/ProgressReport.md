@@ -5,7 +5,7 @@
 
 ### 1.수행내용<br>
 
-- Bizflow Edu Portal 계정확인및비밀번호변경후, 로그인<br>
+- ~~Bizflow Edu Portal 계정 확인 및 비밀번호 변경 후, 로그인<br>~~
 - Courses> Introductory course 이수하면서 AppDev 기본사용법숙지<br>
   ■ 1-1. Introduction<br>
   ■ 1-2. What is AppDev Studio?<br>
@@ -28,7 +28,9 @@
 
 ### 2.진행보고서체크리스트<br>
 
-- Bizflow Edu Portal 계정확인및비밀번호변경후, 로그인하는데문제없었나?<br>
+- Bizflow Edu Portal 계정확인 및 비밀번호변경 후, 로그인하는데문제없었나?<br>
+> 팝업창이 안떠서 한참 방법을 찾다가 발견 후 변경하였습니다.:)
+
 - Introductory course를이수하였나?<br>
 - 위 내용을 이수하면서 알게 되었거나 느낀내용을 50자이상적으라.<br>
 - 위 내용을 이수하면서 알게 되었거나 느낀내용을 50자이상적으라.<br>
