@@ -5,13 +5,13 @@
 
 ### 1.수행내용<br>
 
-- ~~Bizflow Edu Portal 계정 확인 및 비밀번호 변경 후, 로그인<br>~~
-- Courses> Introductory course 이수하면서 AppDev 기본사용법숙지<br>
+- ~~Bizflow Edu Portal 계정 확인 및 비밀번호 변경 후, 로그인~~<br>
+- ~~Courses> Introductory course 이수하면서 AppDev 기본사용법숙지~~<br>
   ■ 1-1. Introduction<br>
   ■ 1-2. What is AppDev Studio?<br>
   ■ 1-3. What is AppDev Data Modeler?<br>
   
-- HGUworkspace 내에자신의 project 생성<br>
+- HGUworkspace 내에 자신의 project 생성<br>
   ■ project 이름 : 분반_학번_영문이름 (예 : 1분반 22100123학번의홍길동학생은1_22100123_GildongHong이라는프로젝트명사용<br>
   
 - 위 프로젝트의 권한 설정<br>
@@ -32,13 +32,17 @@
 > 팝업창이 안떠서 한참 방법을 찾다가 발견 후 변경하였습니다.:)
 
 - Introductory course를이수하였나?<br>
+<img width="1219" alt="스크린샷 2022-09-20 오후 2 20 02" src="https://user-images.githubusercontent.com/103713510/191173809-98dd3fdb-0c1f-466f-a425-337ecca5ac92.png"><br>
+
+
 - 위 내용을 이수하면서 알게 되었거나 느낀내용을 50자이상적으라.<br>
-- 위 내용을 이수하면서 알게 되었거나 느낀내용을 50자이상적으라.<br>
+> 솔직히 내용정리를 하면서 정리한 내용을 공유하면서 공부를 하고 싶었지만 내용 유출 금지란에 싸인을 해서 혼자만 갖고 있겠습니다. 처음 Introductory course를 이수하며 느낀점은 툴이 참 웹을 만들기 쉽게 잘 제작했다는 생각이 들었다. 예전에 유니티로 프로젝트를 한적이 있었는데 비슷한 느낌이 들었다. 오히려 툴은 앱인벤터 보다는 복잡하고 유니티보다는 덜 복잡한? 느낌이다. 아직은 프로젝트를 시작안해보고 대충 소개만 보고 느낀점이라서 차후 생각이 바뀔수도 있다.<br>
+
 - HGU workspace 내에새로만든자신의 project 이름은무엇인가?<br>
 - 위프로젝트를 HGU_Teachers 그룹에게 Read/Manage/Admin 권한부여하였나?<br>
 - Bizflow Edu Portal Video tutorial 내의다음 2개영상을충분히시청하였나?<br>
-  ■ AppDev Layout #1-1 Grid Layout<br>
-  ■ AppDev Layout #1-2 Grid Layout, Checkout Form<br>
+  - AppDev Layout #1-1 Grid Layout<br>
+  - AppDev Layout #1-2 Grid Layout, Checkout Form<br>
   
 - Checkout form 페이지를완성하였나?<br>
 - 위 페이지의 상단 타이틀을 변경하였나?<br>
