@@ -54,10 +54,28 @@
 
   
 - Checkout form 페이지를완성하였나?<br>
+
+
+
 - 위 페이지의 상단 타이틀을 변경하였나?<br>
+<img width="587" alt="스크린샷 2022-09-24 오후 7 55 34" src="https://user-images.githubusercontent.com/103713510/192094077-eb082b31-0c09-4c18-a06e-0875cadee437.png">
+
+
 - 자신이 완성한 위페이지를 AppDev에서 확인한 화면을 캡쳐하여 붙일것.<br>
   - 휴대폰 버전<br>
+
+<img width="383" alt="스크린샷 2022-09-24 오후 7 55 25" src="https://user-images.githubusercontent.com/103713510/192094081-5ed49dc8-09e8-4f12-85a8-bf802729ebd8.png">
+
+
   - 태블릿 버전<br>
+<img width="680" alt="스크린샷 2022-09-24 오후 7 54 48" src="https://user-images.githubusercontent.com/103713510/192094055-513f8b73-9595-4d8f-b893-2dde3022c04d.png">
+
+
+
+
   - 데스크탑 버전<br>
+<img width="1285" alt="스크린샷 2022-09-24 오후 7 53 34" src="https://user-images.githubusercontent.com/103713510/192094040-60c6b205-f488-4955-a652-c55b23887a00.png">
+
+
   
 - 이번 프로젝트를 구현하면서 느낀생각이나 어려웠던사항, 또는 건의사항을 50자이상적으라.<br>
