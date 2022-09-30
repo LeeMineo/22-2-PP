@@ -5,6 +5,9 @@
 1.수행내용
 - Courses> Beginner > 2-1. Course Registration course 이수
   - Lesson 1 ~ 7
+<img width="268" alt="스크린샷 2022-09-30 오후 4 29 47" src="https://user-images.githubusercontent.com/103713510/193215622-10310eac-a0ce-4bc2-bdc9-98969cd8a43f.png">
+
+
 - HGUworkspace 내자신의 project 제작확인
   - project 이름 : 분반_학번_영문이름 (예 : 1분반 22100123학번의홍길동학생은1_22100123_GildongHong이라는프로젝트명사용)
   - Authority 탭에서 Group 검색하여HGU_Teachers그룹에게Manage/Admin권한부여하기
