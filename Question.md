@@ -31,6 +31,47 @@
 <img width="237" alt="스크린샷 2022-09-01 오후 8 43 55" src="https://user-images.githubusercontent.com/103713510/187906140-62df42b6-57fb-45a0-af44-9aefc3b471e5.png">
 완료.<br><br>
 
+----
+# Study
 
-오버로딩(Overloading)은 기존에 없던 새로운 메서드를 정의하는 것이고, 오버라이딩(Overriding)은 상속 받은 메서드의 내용만 변경 하는 것이다.<br>
-추상 클래스는 그 추상 클래스를 상속받아서 기능을 이용하고, 확장시키는 데 있습니다. 반면에 인터페이스는 함수의 껍데기만 있는데, 그 이유는 그 함수의 구현을 강제하기 위해서<br>
+- 오버로딩(Overloading)은 기존에 없던 새로운 메서드를 정의하는 것이고, 오버라이딩(Overriding)은 상속 받은 메서드의 내용만 변경 하는 것이다.<br>
+- 추상 클래스는 그 추상 클래스를 상속받아서 기능을 이용하고, 확장시키는 데 있습니다. 반면에 인터페이스는 함수의 껍데기만 있는데, 그 이유는 그 함수의 구현을 강제하기 위해서<br>
+
+- Call Action : 웹 페이지가 뜨는거  , 창이뜨는거
+- Run Action: 그냥 명령만 수행하는거, 뒤에서 데이터 처리하는거
+
+- Full Stack : Front-end + Back-end
+- Front-end : 사용자상호작용하는화면
+- Back-end : 컨텐츠나자원들과통신하는모든프로그램
+
+- Web development : Front-end
+  - 1.컨텐츠 작성
+  - 2.HTML : 레이아웃배치
+  - 3.각 영역에 컨텐츠 배치
+  - 4.CSS : 스타일
+  - 5.Javascript : 동적페이지 구성
+  - 6.웹 페이지 완성
+
+- HTML tags
+  - HTML Basic
+    - <html> <head> <body>
+  - HTML Heading
+    - <h1> <h2> ... <h6>
+  - HTML Paragrap
+    - <p> <br> <pre>
+  - HTML Block
+    - <div> <ul> <ol> <li>
+  - HTML Links
+    - <a>
+    
+- CSS Tutorials
+  - CSS Simple selectors
+    - element - HTML elements
+    - #id - the id attribute of an HTML : element to select a specific element
+    - .class - HTML elements with a specific class attribute
+    
+- HTML form
+  - 사용자의 데이터를 서버에 전송하는 방법
+  - 로그인, 회원가입, 글작성 및 파일업로드 등 
+    
+                          
