@@ -54,15 +54,15 @@
 
 - HTML tags
   - HTML Basic
-    - <html> <head> <body>
-  - HTML Heading
-    - <h1> <h2> ... <h6>
-  - HTML Paragrap
-    - <p> <br> <pre>
-  - HTML Block
-    - <div> <ul> <ol> <li>
-  - HTML Links
-    - <a>
+    - <html> <head> <body> <br>
+  - HTML Heading <br>
+    - <h1> <h2> ... <h6> <br>
+  - HTML Paragrap <br>
+    - <p> <br> <pre> <br>
+  - HTML Block <br>
+    - <div> <ul> <ol> <li> <br>
+  - HTML Links <br>
+    - <a> <br>
     
 - CSS Tutorials
   - CSS Simple selectors
