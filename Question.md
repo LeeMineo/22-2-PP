@@ -52,26 +52,26 @@
   - 5.Javascript : 동적페이지 구성
   - 6.웹 페이지 완성
 
-- HTML tags
-  - HTML Basic
-    - <html> <head> <body> <br>
-  - HTML Heading <br>
-    - <h1> <h2> ... <h6> <br>
-  - HTML Paragrap <br>
-    - <p> <br> <pre> <br>
-  - HTML Block <br>
-    - <div> <ul> <ol> <li> <br>
-  - HTML Links <br>
-    - <a> <br>
+HTML tags
+  HTML Basic
+    <html> <head> <body> <br>
+  HTML Heading <br>
+    <h1> <h2> ... <h6> <br>
+  HTML Paragrap <br>
+    <p> <br> <pre> <br>
+  HTML Block <br>
+    <div> <ul> <ol> <li> <br>
+  HTML Links <br>
+    <a> <br>
     
-- CSS Tutorials
-  - CSS Simple selectors
-    - element - HTML elements
-    - #id - the id attribute of an HTML : element to select a specific element
-    - .class - HTML elements with a specific class attribute
+CSS Tutorials<br>
+  CSS Simple selectors<br>
+    element - HTML elements<br>
+    #id - the id attribute of an HTML : element to select a specific element<br>
+    .class - HTML elements with a specific class attribute<br>
     
-- HTML form
-  - 사용자의 데이터를 서버에 전송하는 방법
-  - 로그인, 회원가입, 글작성 및 파일업로드 등 
+HTML form<br>
+  사용자의 데이터를 서버에 전송하는 방법<br>
+  로그인, 회원가입, 글작성 및 파일업로드 등 <br>
     
                           
